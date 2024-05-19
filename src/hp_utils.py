@@ -32,6 +32,9 @@ OPTIONS:
                             server app
   -m, --max-buff-size <M>   the maximum number of bytes that
                             can be recieved by client
+  -u, --username <UN>       username to be displayed along
+                            -side your messages
+  -d, --delay <D>           amount of seconds before timeout
   -h, --help                display this message
     """
 
